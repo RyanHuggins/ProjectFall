@@ -4,15 +4,20 @@
     <Filter Include="Project">
       <UniqueIdentifier>{92b401cb-dc17-466e-b0e8-8186c26b8641}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Project\Core">
+      <UniqueIdentifier>{ce543ce3-9b00-44e8-8ac2-45094e5bff24}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Main.cpp">
       <Filter>Project</Filter>
     </ClCompile>
+    <ClCompile Include="Fall.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Common.h">
       <Filter>Project</Filter>
     </ClInclude>
+    <ClInclude Include="Fall.h" />
   </ItemGroup>
 </Project>

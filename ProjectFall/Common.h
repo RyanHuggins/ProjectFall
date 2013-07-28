@@ -8,9 +8,8 @@
 #include <sstream>
 
 #include <Arc/Defines.h>
-#include <Arc/Console.h>
-#include <Arc/MemoryTracker.h>
-#include <Arc/Program.h>
+#include <Arc/Functions.h>
+#include <Arc/Geom.h>
 
 using namespace Arc;
 
